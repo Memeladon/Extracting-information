@@ -1,4 +1,5 @@
 .idea
-*.xlsx
-
 vendor
+
+src/.env
+*.xlsx
